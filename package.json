@@ -9,9 +9,9 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.5",
     "@nomiclabs/hardhat-ethers": "^2.1.0",
     "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@reduxjs/toolkit": "^1.9.5",
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.6.9",
     "hardhat": "^2.10.1",
@@ -26,6 +26,8 @@
     "react-redux": "^8.0.5",
     "react-router-dom": "6",
     "react-scripts": "5.0.0",
+    "react-toastify": "^10.0.5",
+    "react-typed": "^2.0.12",
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {

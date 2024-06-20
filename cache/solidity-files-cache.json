@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Achmad Sodiq\\Downloads\\flashdisk file faiz\\blockxstarter\\crowdfunding\\src\\contracts\\Crowdfunding.sol": {
+      "lastModificationDate": 1718855249272,
+      "contentHash": "e277a93f7addf6e03effa83c29c6f46e",
+      "sourceName": "src/contracts/Crowdfunding.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Crowdfunding"
+      ]
+    }
+  }
+}
